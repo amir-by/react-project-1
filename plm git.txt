@@ -1,0 +1,17 @@
+git: gpg: skipped "35F5FFB2": Np secret key
+git: cannot spawn c:/gpg2.exe
+==>gpg --full-generate-key 
+
+
+gpg: key 94AE5E2807F0CCA4 marked as ultimately trusted
+gpg: revocation certificate stored as '/c/Users/AZUS/.gnupg/openpgp-revocs.d/F4BB8ADA63109E69904E274894AE5E2807F0CCA4.rev'
+public and secret key created and signed.
+
+pub   rsa3072 2022-10-24 [SC]
+      F4BB8ADA63109E69904E274894AE5E2807F0CCA4
+uid                      amir-by (gpg for amir-by) <amirmeshket@gmail.com>
+sub   rsa3072 2022-10-24 [E]
+
+
+
+//****solution : =>   https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
