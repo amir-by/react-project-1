@@ -9,7 +9,6 @@ import './index.css';
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
 } from "react-router-dom";
 
 
