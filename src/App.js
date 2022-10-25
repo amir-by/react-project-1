@@ -62,7 +62,7 @@ function App() {
       </li>
     </ul>
   </header>
-  <header className="show-when-mobile">
+  <header style={{backgroundColor:'yellow'}}  className="show-when-mobile">
     <h1>Courses 4 Arab</h1>
     <label className="absolute" htmlFor="burger">
       <i className="fas fa-bars" />
