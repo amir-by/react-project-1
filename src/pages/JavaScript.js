@@ -4,7 +4,7 @@ const JavaScript = () => {
   return (
     <>
     <header className="hide-when-mobile">
-      <h1>Courses 4 Arab</h1>
+      <h1>Branch Amir</h1>
       <ul className="flex">
         <li className="main-list">
           <a className="main-link" href="#ww">
