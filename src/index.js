@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
- import Home from './pages/Home';
+  import Home from './pages/Home';
  import Html from './pages/Html';
  import Css from './pages/Css';
  import JavaScript from './pages/JavaScript';
@@ -18,6 +18,7 @@ const router = createBrowserRouter([
     element: <Home/>,
     errorElement: <h1>SORRY.......</h1>
   },
+ 
   {
     path: "/html",
     element: <Html/>,
