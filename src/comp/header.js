@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
+import './Header.css'
 
 const Header = () => {
   return (
@@ -69,7 +70,7 @@ const Header = () => {
         </li>
       </ul>
     </header>
-    {/* <header style={{backgroundColor:'yellow'}}  className="show-when-mobile">
+    <header style={{backgroundColor:'red'}}  className="show-when-mobile">
       <h1>Courses 4 Arab</h1>
       <label className="absolute" htmlFor="burger">
         <i className="fas fa-bars" />
@@ -136,7 +137,7 @@ const Header = () => {
           </ul>
         </div>
       </div>
-    </header> */}
+    </header>
     </div>
   );
 }

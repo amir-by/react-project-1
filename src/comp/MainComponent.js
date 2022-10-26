@@ -1,5 +1,5 @@
 
-
+import "./MainComponent.css"
 const MainComponent = ({myName}) => {
   return (
     <main>
